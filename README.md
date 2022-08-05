@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is a sample of open-source contributions:
+Here is a sample of my open-source contributions:
 
 * Huggingface Transformers: https://github.com/huggingface/transformers/pull/14525
 * PyTorch-Lightning: https://github.com/Lightning-AI/lightning/pull/11993 

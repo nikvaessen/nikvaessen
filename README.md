@@ -6,7 +6,7 @@ Here is a sample of open-source contributions:
 * PyTorch-Lightning: https://github.com/Lightning-AI/lightning/pull/11993 
 * Jitsi Meet: https://github.com/jitsi/jitsi-meet/pull/3213 https://github.com/jitsi/jigasi/pull/55
 
-Furthermore, the following repositories were contributions during Google Summer of Code and my bachelor thesis:
+Furthermore, the following repositories were contributions during my Google Summer of Code project and my bachelor thesis:
 
 * https://github.com/jitsi/jiwer
 * https://github.com/jitsi/jitsi-webrtc-vad-wrapper

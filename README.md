@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Here is a non-exhaustive list of PRs I have contributed:
+Here is a sample of open-source contributions:
 
 * Huggingface Transformers: https://github.com/huggingface/transformers/pull/14525
 * PyTorch-Lightning: https://github.com/Lightning-AI/lightning/pull/11993 
-* Jitsi Meet: 
+* Jitsi Meet: https://github.com/jitsi/jitsi-meet/pull/3213 https://github.com/jitsi/jigasi/pull/55
 
 Furthermore, the following repositories were contributions during Google Summer of Code and my bachelor thesis:
 

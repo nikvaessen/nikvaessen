@@ -8,7 +8,7 @@ Here is a sample of my open-source contributions:
 
 Furthermore, I wrote the following repositories during my Google Summer of Code project and my bachelor thesis:
 
-* https://github.com/jitsi/jiwer ([downloaded 1.1M](https://pypistats.org/packages/jiwer) times via pip as in July 2024)
+* https://github.com/jitsi/jiwer ([downloaded 1.1M](https://pypistats.org/packages/jiwer) times via pip in July 2024)
 * https://github.com/jitsi/jitsi-webrtc-vad-wrapper
 
 Lastly, all my academic work with source code:
